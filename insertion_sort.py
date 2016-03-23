@@ -1,5 +1,5 @@
 """
-    Insertion Sort Alghoritm
+    Insertion Sort Algorithm
     Author: Gianluca Biccari
     Description: sort an input array of integers and return a sorted array
 """
