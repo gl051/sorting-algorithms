@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 """"
     Quick Sort Algorithm
     Author: Gianluca Biccari

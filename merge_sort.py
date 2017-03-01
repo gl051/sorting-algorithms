@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 """
     Merge Sort Algorithm
     Author: Gianluca Biccari

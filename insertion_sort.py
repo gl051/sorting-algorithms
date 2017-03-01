@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 """
     Insertion Sort Algorithm
     Author: Gianluca Biccari

@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 """
     Bubble Sort Algorithm
     Author: Gianluca Biccari
